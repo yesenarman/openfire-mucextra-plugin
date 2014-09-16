@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>kz.zhandunie.openfire.plugin.MUCExtraPlugin</class>
+    <name>MUC Extra</name>
+    <description>Some MUC features which are not part of the XEP-0045 protocol</description>
+    <author>Arman Yessenamanov</author>
+    <version>0.1.0</version>
+    <date>08.28.2014</date>
+    <minServerVersion>3.9.1</minServerVersion>
+</plugin>
